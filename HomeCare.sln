@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCare.CoreBusiness", "HomeCare.CoreBusiness\HomeCare.CoreBusiness.csproj", "{9EFAD13E-5FC1-4119-B9F2-A069715C5C2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeCare.CoreBusiness", "HomeCare.CoreBusiness\HomeCare.CoreBusiness.csproj", "{9EFAD13E-5FC1-4119-B9F2-A069715C5C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCare.Appoinments.Api", "HomeCare.Appoinments.Api\HomeCare.Appoinments.Api.csproj", "{EC583254-5749-451A-9DCE-9EE23DF2FE70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9EFAD13E-5FC1-4119-B9F2-A069715C5C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EFAD13E-5FC1-4119-B9F2-A069715C5C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EFAD13E-5FC1-4119-B9F2-A069715C5C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC583254-5749-451A-9DCE-9EE23DF2FE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC583254-5749-451A-9DCE-9EE23DF2FE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC583254-5749-451A-9DCE-9EE23DF2FE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC583254-5749-451A-9DCE-9EE23DF2FE70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
